@@ -1,4 +1,4 @@
-
+#Week3 Question4
 
 students = {"Julien": 4, "Diane": 4, "Hubert": 3, "Kenny": 3, "Jane": 2,"Peter": 4}
 tv = {"LG": 4000, "Startimes": 3000, "Samsung": 4500, "Sony": 6500}
@@ -22,3 +22,7 @@ print(phones)
 #lookup(key)
 x = juices.get("mango")
 print(x)
+
+
+#Time complexity O(1)
+#Space complexity O(1)
